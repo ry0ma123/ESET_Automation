@@ -1,7 +1,7 @@
 # ESET INSPECT - Detection Logの抽出APIサンプルスクリプト
 
 ## 概要
-このスクリプトは、ESET CONNECTを開始、ESET INSPECTのDetection LogをAPIで抽出するためのサンプルコードです。  
+このスクリプトは、ESET CONNECTを介し、ESET INSPECTのDetection LogをAPIで抽出するためのサンプルコードです。  
 抽出されるファイルはJSON形式で保存されます。
 
 ## ユースケース
